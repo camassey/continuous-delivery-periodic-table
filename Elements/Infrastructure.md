@@ -5,8 +5,6 @@
 
 ##V - Virtualization
 
-##Eip - External integration points
-
 ##Cl - Cloud
 
 ##Env - Environments
@@ -15,14 +13,18 @@
 
 ##H - Hardware
 
-##Ae - Abnormal events
-
-##Ss - Snowflake server
-
 ##N - Networking
+
+##Prov - Provisioning
 
 ##Cp - Continuity planning
 
 ##Mw - Middleware
 
-##Prov - Provisioning
+##Eip - External integration points
+
+##Ae - Abnormal events
+
+##Ss - Snowflake server
+
+##CfMg - Configuration Management
